@@ -14,5 +14,3 @@
 - 👯 I’m looking to collaborate on Python Bases Projects
 - 🤔 I’m looking for help with Machine Learning Algorithms
 
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-</br>
