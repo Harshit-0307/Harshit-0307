@@ -14,3 +14,6 @@
 - 👯 I’m looking to collaborate on Python Bases Projects
 - 🤔 I’m looking for help with Machine Learning Algorithms
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-0307&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="harshit-0307" /></p>
+
+<div align="center">
