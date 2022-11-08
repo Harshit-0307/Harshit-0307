@@ -1,5 +1,5 @@
 ### Hi there, I am Harshit Shah 👋
-
+### I am a student of MSc. DS.
 ## 📫 Find me at:
 <table>
   <tr>
